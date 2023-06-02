@@ -76,6 +76,5 @@ async function joinLobby(tempbot) {
     await console.log("Success!!")
 }
 
-
 let arrayOfBots = [bot, bot2]
 setupBots(arrayOfBots)
